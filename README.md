@@ -1,4 +1,9 @@
 # Codewars-v3
+
+This repository contains our team's final submission for CodeWars, IIT Bombay's Web and Coding Club's annual hackathon. The below README contains installation and setup instructions for the game. Our final strategy is in strategy.py and our custom run file is in run.py.
+
+Contributors: Swarnim Jain, Rishabh Raj Prakash, Geet Singhi, Shravan Srinivasa Raghavan
+
 Welcome to Codewars-v3!</br>
 Build the strongest village and capture enemy territory to win!</br>
 ---
